@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845943842465",
+    "firebase_url": "https://moviesapp-329e2.firebaseio.com",
+    "project_id": "moviesapp-329e2",
+    "storage_bucket": "moviesapp-329e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845943842465:android:f51f06b8e56aeb8c1df2e0",
+        "android_client_info": {
+          "package_name": "com.aimanismail.moviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845943842465-3kv9gq7knelpb1gr1ep46efv53aoo7jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIFzB_CbTPq9wyIYtcOIs83nkXJUyWYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845943842465-3kv9gq7knelpb1gr1ep46efv53aoo7jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
